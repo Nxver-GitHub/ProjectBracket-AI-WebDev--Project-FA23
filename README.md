@@ -5,3 +5,5 @@ Team members:
 Surya Pugazhenthi
 Anupriya Islam
 Claryssa Tarigan
+Kyle Huang
+Charlene Lioe
