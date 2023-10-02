@@ -6,6 +6,7 @@ Surya Pugazhenthi
 Anupriya Islam
 Claryssa Tarigan
 Kyle Huang
+Andrew Damanik
 Charlene Lioe
 Shizuka Takao - AI/ML
 Sofia Silva
