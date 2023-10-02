@@ -8,3 +8,4 @@ Claryssa Tarigan
 Kyle Huang
 Charlene Lioe
 Shizuka Takao - AI/ML
+Sofia Silva
