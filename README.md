@@ -10,4 +10,4 @@ Andrew Damanik
 Charlene Lioe
 Shizuka Takao - AI/ML
 Sofia Silva
-Evan Dorton!!!
+Evan Dorton
