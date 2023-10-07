@@ -10,4 +10,8 @@ Andrew Damanik
 Charlene Lioe
 Shizuka Takao - AI/ML
 Sofia Silva
+<<<<<<< HEAD
 Evan Dorton 
+=======
+Evan Dorton (test)
+>>>>>>> 920fab17c84720c251ecc6b2cd8c70d3d526e39e
