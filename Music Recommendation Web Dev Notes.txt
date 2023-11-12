@@ -1,0 +1,2 @@
+Music Recommendation Website Development Notes:
+*To run web page after closing VS and the site, run "cd (path to folder) and "npm run dev"
