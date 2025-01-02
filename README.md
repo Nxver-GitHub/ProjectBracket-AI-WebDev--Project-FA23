@@ -1,5 +1,5 @@
 # ProjectBracket-AI-WebDev--Project-FA23
-# AI/ML Integrated Web-Development Project for Fall 2023
+# AI/ML Integrated Web-Development Project for Fall 2023 (Music Web Player W/ AI Recommendation System)
 
 Team members:
 Surya Pugazhenthi
